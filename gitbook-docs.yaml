@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: База знаний Mentor in Tech
+  structure:
+    - type: space
+      key: main-space
+      title: База знаний
+      path: /
+      default: true
+      content:
+        directory: ./
