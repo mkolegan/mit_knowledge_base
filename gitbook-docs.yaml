@@ -5,7 +5,8 @@ site:
     - type: space
       key: main-space
       title: База знаний
-      path: /
+      path: undefined
       default: true
       content:
         directory: ./
+        language: ru
