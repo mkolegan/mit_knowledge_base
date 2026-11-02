@@ -6,7 +6,7 @@
 3. Попробовать сформулировать свою цель.
 
 **📚 Материалы для подготовки:**
-* [01 Про постановку целей MiT](https://drive.google.com/file/d/14JxFaW6N83faYuDagHPKmU6JLMTITC3w/view?usp=drive_link) (PDF)
-* [02 Как сформулировать цель по SMART](https://drive.google.com/file/d/13utGb8yfFKgrXRBEuBzQLCG8RUo7KORF/view?usp=drive_link) (PDF)
-* [03 7 образов нерабочих запросов](https://drive.google.com/file/d/123gUfytyUDg_AL5rzBoi27biArzFap_a/view?usp=drive_link) (PDF)
-* [04 Рефлексивный опросник менти ](https://drive.google.com/file/d/14UMWJm8y8P_myDdUX5o3ujEBSs45UkJG/view?usp=drive_link) (PDF)
+* [Про постановку целей MiT](https://drive.google.com/file/d/14JxFaW6N83faYuDagHPKmU6JLMTITC3w/view?usp=drive_link) (PDF)
+* [7 образов нерабочих запросов](https://drive.google.com/file/d/123gUfytyUDg_AL5rzBoi27biArzFap_a/view?usp=drive_link) (PDF)
+* [Рефлексивный опросник менти ](https://drive.google.com/file/d/14UMWJm8y8P_myDdUX5o3ujEBSs45UkJG/view?usp=drive_link) (PDF)
+* [Mentor_in_Tech_Советы_менти_и_ментору](https://drive.google.com/file/d/1MPgawtKnNfo7ldBRPisYNgTkap21cjbD/view?usp=drive_link) (PDF)
