@@ -12,6 +12,9 @@
 * [👥 Групповой менторинг](activities/group-mentoring.md)
 * [💬 Чат менти](activities/mentee-chat.md)
 
+## 🎥 Видеотека
+* [Каталог всех видео](videos/catalog.md)
+
 ## 📚 Полезные материалы
 * [Глоссарий терминов](glossary.md)
 * [Правила программы](rules.md)
